@@ -8,3 +8,4 @@ langgenius/dify-web:0.6.12-fix1
 langgenius/dify-sandbox:0.2.1
 python:3.10-slim-bookworm
 postgres:15
+dpage/pgadmin4

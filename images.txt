@@ -9,4 +9,4 @@ langgenius/dify-sandbox:0.2.1
 python:3.10-slim-bookworm
 postgres:15
 dpage/pgadmin4
-docker.io/nvidia/cuda:11.8.0-devel-ubuntu20.04
+nvidia/cuda:11.8.0-devel-ubuntu20.04

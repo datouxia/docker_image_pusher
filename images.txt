@@ -12,3 +12,8 @@ dpage/pgadmin4
 nvidia/cuda:11.8.0-devel-ubuntu20.04
 prom/node-exporter:v0.18.0
 prom/prometheus:latest
+nginx
+redis:4
+mysql:5.7.27
+phpmyadmin/phpmyadmin
+influxdb:1.8

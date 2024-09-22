@@ -3,6 +3,7 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
+ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
 #langgenius/dify-sandbox:0.2.1
@@ -10,7 +11,7 @@
 #postgres:15
 #dpage/pgadmin4
 #nvidia/cuda:11.8.0-devel-ubuntu20.04
-nvidia/cuda:12.1.0-devel-ubuntu20.04
+#nvidia/cuda:12.1.0-devel-ubuntu20.04
 #prom/node-exporter:v0.18.0
 #prom/prometheus:latest
 #nginx

@@ -3,7 +3,7 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-alpine:3.19.1:
+alpine:3.19.1
 #roura/tengine
 #grafana/k6
 #xprobe/xinference

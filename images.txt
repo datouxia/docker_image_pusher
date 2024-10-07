@@ -4,7 +4,7 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 #registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-340a666c
-kubernetesui/dashboard:v2.4.0
+#kubernetesui/dashboard:v2.4.0
 #codeproject/ai-server:gpu 
 #alpine:3.19.1
 #roura/tengine
@@ -26,3 +26,11 @@ kubernetesui/dashboard:v2.4.0
 #mysql:5.7.27
 #phpmyadmin/phpmyadmin
 #influxdb:1.8
+nginx:latest
+langgenius/dify-api:0.10.0-beta2
+langgenius/dify-web:0.10.0-beta2
+postgres:15-alpine
+ubuntu/squid:latest
+redis:6-alpine 
+semitechnologies/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.9

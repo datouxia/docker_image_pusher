@@ -34,4 +34,5 @@
 #redis:6-alpine 
 #semitechnologies/weaviate:1.19.0
 #langgenius/dify-sandbox:0.2.9
-xprobe/xinference:latest
+#xprobe/xinference:latest
+vllm-openai:latest

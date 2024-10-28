@@ -36,5 +36,6 @@
 #langgenius/dify-sandbox:0.2.9
 #xprobe/xinference:latest
 #vllm/vllm-openai:latest
---platform=linux/arm64 node:16
---platform=linux/arm64 registry.k8s.io/pause:3.7
+#--platform=linux/arm64 node:16
+#--platform=linux/arm64 registry.k8s.io/pause:3.7
+ohttps/ohttps-nginx

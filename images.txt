@@ -10,7 +10,7 @@
 #roura/tengine
 #grafana/k6
 #xprobe/xinference
-ollama/ollama
+#ollama/ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
 #langgenius/dify-sandbox:0.2.1
@@ -46,3 +46,4 @@ ollama/ollama
 #docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 #docker.io/flannel/flannel:v0.26.3
 #docker.io/flannel/flannel-cni-plugin:v1.6.0-flannel1
+mysql:5.7

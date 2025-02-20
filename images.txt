@@ -48,5 +48,5 @@
 #docker.io/flannel/flannel-cni-plugin:v1.6.0-flannel1
 #mysql:5.7
 openproject/proxy
-openproject/openproject-15-slim
+openproject/openproject:15-slim
 willfarrell/autoheal:1.2.0

@@ -56,4 +56,5 @@
 #docker.io/kubernetesui/dashboard-web:1.6.1
 #kong:3.8
 #kong:3.7
-kubernetesui/dashboard:v2.7.0
+#kubernetesui/dashboard:v2.7.0
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343@sha256:39c5b2e3310dc4264d638ad28d9d1d96c4cbb2b2dcfb52368fe4e3c63f61e10f

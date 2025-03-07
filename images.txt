@@ -10,7 +10,7 @@
 #roura/tengine
 #grafana/k6
 #xprobe/xinference
-#ollama/ollama
+ollama/ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
 #langgenius/dify-sandbox:0.2.1
@@ -59,4 +59,4 @@
 #kubernetesui/dashboard:v2.7.0
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
 #registry.k8s.io/ingress-nginx/controller:v1.6.4
-node:14
+#node:14

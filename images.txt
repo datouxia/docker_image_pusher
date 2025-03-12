@@ -60,4 +60,6 @@
 #registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20220916-gd32f8c343
 #registry.k8s.io/ingress-nginx/controller:v1.6.4
 #node:14
-qwenllm/qwenvl:2.5-cu121
+#qwenllm/qwenvl:2.5-cu121
+docker.io/pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
+docker.io/library/node:20.16.0

@@ -34,8 +34,6 @@
 #redis:6-alpine 
 #semitechnologies/weaviate:1.19.0
 #langgenius/dify-sandbox:0.2.9
-#xprobe/xinference:latest
-#vllm/vllm-openai:latest
 #--platform=linux/arm64 node:16
 #--platform=linux/arm64 registry.k8s.io/pause:3.7
 #ohttps/ohttps-nginx
@@ -63,4 +61,7 @@
 #qwenllm/qwenvl:2.5-cu121
 #docker.io/pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
 #docker.io/library/node:20.16.0
-ohttps/ohttps-nginx
+#ohttps/ohttps-nginx
+lmsysorg/sglang:latest
+xprobe/xinference:latest
+vllm/vllm-openai:latest

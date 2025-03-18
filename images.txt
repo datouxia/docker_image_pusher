@@ -65,4 +65,5 @@
 #lmsysorg/sglang:latest
 #xprobe/xinference:latest
 #vllm/vllm-openai:latest
-mysql:5.7.44
+#mysql:5.7.44
+phpmyadmin

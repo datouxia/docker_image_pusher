@@ -62,6 +62,7 @@
 #docker.io/pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
 #docker.io/library/node:20.16.0
 #ohttps/ohttps-nginx
-lmsysorg/sglang:latest
-xprobe/xinference:latest
-vllm/vllm-openai:latest
+#lmsysorg/sglang:latest
+#xprobe/xinference:latest
+#vllm/vllm-openai:latest
+mysql:5.7.44

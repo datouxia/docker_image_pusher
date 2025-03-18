@@ -66,4 +66,5 @@
 #xprobe/xinference:latest
 #vllm/vllm-openai:latest
 #mysql:5.7.44
-phpmyadmin
+#phpmyadmin
+quay.io/prometheus/node-exporter:latest

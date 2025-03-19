@@ -68,3 +68,5 @@
 #mysql:5.7.44
 #phpmyadmin
 quay.io/prometheus/node-exporter:latest
+nginx
+kubernetesui/dashboard:v2.5.0

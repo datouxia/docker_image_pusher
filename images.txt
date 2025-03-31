@@ -10,7 +10,7 @@
 #roura/tengine
 #grafana/k6
 #xprobe/xinference
-#ollama/ollama
+ollama/ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
 #langgenius/dify-sandbox:0.2.1
@@ -67,7 +67,7 @@ xprobe/xinference:latest
 #vllm/vllm-openai:latest
 #mysql:5.7.44
 #phpmyadmin
-quay.io/prometheus/node-exporter:latest
-nginx
-kubernetesui/dashboard:v2.5.0
-jupyterlab
+#quay.io/prometheus/node-exporter:latest
+#nginx
+#kubernetesui/dashboard:v2.5.0
+#jupyterlab

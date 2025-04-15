@@ -69,7 +69,8 @@
 #phpmyadmin
 #quay.io/prometheus/node-exporter:latest
 #nginx
+grafana/xk6
 #kubernetesui/dashboard:v2.5.0
 #jupyterlab
 #approachingai/ktransformers:v0.2.4-AVX512
-vllm/vllm-openai:v0.8.2
+#vllm/vllm-openai:v0.8.2

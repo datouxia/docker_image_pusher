@@ -21,7 +21,7 @@
 #nvidia/cuda:12.1.0-devel-ubuntu20.04
 #prom/node-exporter:v0.18.0
 #prom/prometheus:latest
-#nginx
+nginx
 #redis:4
 #mysql:5.7.27
 #phpmyadmin/phpmyadmin
@@ -69,7 +69,7 @@
 #phpmyadmin
 #quay.io/prometheus/node-exporter:latest
 #nginx
-grafana/xk6
+#grafana/xk6
 #kubernetesui/dashboard:v2.5.0
 #jupyterlab
 #approachingai/ktransformers:v0.2.4-AVX512

@@ -64,7 +64,7 @@ ollama/ollama
 #ohttps/ohttps-nginx
 #lmsysorg/sglang:latest
 #xprobe/xinference:latest
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
 #mysql:5.7.44
 #phpmyadmin
 #quay.io/prometheus/node-exporter:latest

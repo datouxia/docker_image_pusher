@@ -26,7 +26,8 @@
 #nginx
 #redis:4
 #mysql:5.7.27
-phpmyadmin/phpmyadmin
+#mysql:8.0.36
+#phpmyadmin/phpmyadmin
 #influxdb:1.8
 #nginx:latest
 #langgenius/dify-api:0.10.0-beta2

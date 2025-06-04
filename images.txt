@@ -26,7 +26,7 @@
 #nginx
 #redis:4
 #mysql:5.7.27
-#phpmyadmin/phpmyadmin
+phpmyadmin/phpmyadmin
 #influxdb:1.8
 #nginx:latest
 #langgenius/dify-api:0.10.0-beta2
@@ -62,7 +62,7 @@
 #node:14
 #qwenllm/qwenvl:2.5-cu121
 #docker.io/pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel
-docker.io/pytorch/pytorch:2.6.0-cuda12.4-cudnn9-devel
+#docker.io/pytorch/pytorch:2.6.0-cuda12.4-cudnn9-devel
 #docker.io/library/node:20.16.0
 #ohttps/ohttps-nginx
 #lmsysorg/sglang:latest

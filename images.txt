@@ -8,7 +8,7 @@
 #codeproject/ai-server:gpu 
 #alpine:3.19.1
 #roura/tengine
-#grafana/k6
+grafana/k6
 #xprobe/xinference
 #ollama/ollama
 #langgenius/dify-api:0.6.12-fix1

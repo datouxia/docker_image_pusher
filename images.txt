@@ -8,9 +8,9 @@
 #codeproject/ai-server:gpu 
 #alpine:3.19.1
 #roura/tengine
-grafana/k6
+#grafana/k6
 #xprobe/xinference
-#ollama/ollama
+ollama/ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
 #langgenius/dify-sandbox:0.2.1
@@ -26,7 +26,7 @@ grafana/k6
 #nginx
 #redis:4
 #mysql:5.7.27
-mysql:8.0.36
+#mysql:8.0.36
 #phpmyadmin/phpmyadmin
 #influxdb:1.8
 #nginx:latest

@@ -10,7 +10,7 @@
 #roura/tengine
 #grafana/k6
 #xprobe/xinference
-ollama/ollama
+#ollama/ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
 #langgenius/dify-sandbox:0.2.1
@@ -78,3 +78,6 @@ ollama/ollama
 #jupyterlab
 #approachingai/ktransformers:v0.2.4-AVX512
 #vllm/vllm-openai:v0.8.2
+ghcr.io/toeverything/affine-graphql:stable
+redis
+pgvector/pgvector:pg16

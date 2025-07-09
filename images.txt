@@ -81,6 +81,8 @@
 #ghcr.io/toeverything/affine-graphql:stable
 #redis
 #pgvector/pgvector:pg16
-phpmyadmin/phpmyadmin
-mysql:8
-redis:latest
+#phpmyadmin/phpmyadmin
+#mysql:8
+#redis:latest
+node:20
+nginx:alpine

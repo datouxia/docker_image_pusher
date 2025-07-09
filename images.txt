@@ -78,6 +78,9 @@
 #jupyterlab
 #approachingai/ktransformers:v0.2.4-AVX512
 #vllm/vllm-openai:v0.8.2
-ghcr.io/toeverything/affine-graphql:stable
-redis
-pgvector/pgvector:pg16
+#ghcr.io/toeverything/affine-graphql:stable
+#redis
+#pgvector/pgvector:pg16
+phpmyadmin/phpmyadmin
+mysql:8
+redis:latest

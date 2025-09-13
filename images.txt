@@ -9,8 +9,8 @@
 #alpine:3.19.1
 #roura/tengine
 #grafana/k6
-#xprobe/xinference
-ollama/ollama
+xprobe/xinference
+#ollama/ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
 #langgenius/dify-sandbox:0.2.1

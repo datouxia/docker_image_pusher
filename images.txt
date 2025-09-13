@@ -10,7 +10,7 @@
 #roura/tengine
 #grafana/k6
 #xprobe/xinference
-#ollama/ollama
+ollama/ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
 #langgenius/dify-sandbox:0.2.1
@@ -84,5 +84,5 @@
 #phpmyadmin/phpmyadmin
 #mysql:8
 #redis:latest
-node:20
-nginx:alpine
+#node:20
+#nginx:alpine

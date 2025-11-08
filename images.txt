@@ -9,7 +9,7 @@
 #alpine:3.19.1
 #roura/tengine
 #grafana/k6
-xprobe/xinference
+#xprobe/xinference
 #ollama/ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
@@ -21,6 +21,7 @@ xprobe/xinference
 #dpage/pgadmin4
 #nvidia/cuda:11.8.0-devel-ubuntu20.04
 #nvidia/cuda:12.1.0-devel-ubuntu20.04
+nvidia/cuda:11.8.0-devel-ubuntu22.04
 #prom/node-exporter:v0.18.0
 #prom/prometheus:latest
 #nginx
@@ -68,7 +69,7 @@ xprobe/xinference
 #ohttps/ohttps-nginx
 #lmsysorg/sglang:latest
 #xprobe/xinference:latest
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
 #mysql:5.7.44
 #phpmyadmin
 #quay.io/prometheus/node-exporter:latest

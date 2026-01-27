@@ -4,6 +4,7 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 #registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-340a666c
+kubernetesui/dashboard:v2.6.1
 #kubernetesui/dashboard:v2.4.0
 #codeproject/ai-server:gpu 
 #alpine:3.19.1

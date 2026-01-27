@@ -4,7 +4,8 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 #registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-340a666c
-ghcr.io/flannel-io/flannel:v0.28.0
+#ghcr.io/flannel-io/flannel:v0.28.0
+ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
 #kubernetesui/dashboard:v2.6.1
 #kubernetesui/dashboard:v2.4.0
 #codeproject/ai-server:gpu 
@@ -90,4 +91,4 @@ ghcr.io/flannel-io/flannel:v0.28.0
 #redis:latest
 #node:20
 #nginx:alpine
---platform=linux/arm64 rustfs/rustfs
+#--platform=linux/arm64 rustfs/rustfs

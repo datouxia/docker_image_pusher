@@ -3,8 +3,8 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist\
-ollama/ollama
-minio:latest
+#ollama/ollama
+quay.io/minio/minio
 #gotenberg/gotenberg:8
 #gitlab/gitlab-runner:v14.6.1
 #registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-340a666c

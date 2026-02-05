@@ -3,7 +3,9 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist\
-nvidia/cuda:12.1.0-devel-ubuntu20.04
+rust:slim-bookworm
+python:3.11-slim
+#nvidia/cuda:12.1.0-devel-ubuntu20.04
 #ollama/ollama
 #quay.io/minio/minio
 #gotenberg/gotenberg:8

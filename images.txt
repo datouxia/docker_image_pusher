@@ -7,7 +7,8 @@
 #rust:slim-bookworm
 #python:3.11-slim
 #nvidia/cuda:12.1.0-devel-ubuntu20.04
-nvidia/cuda:12.1.0-base-ubuntu22.04
+busybox
+#nvidia/cuda:12.1.0-base-ubuntu22.04
 #ollama/ollama
 #quay.io/minio/minio
 #gotenberg/gotenberg:8

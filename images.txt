@@ -7,7 +7,7 @@
 #rust:slim-bookworm
 #python:3.11-slim
 #nvidia/cuda:12.1.0-devel-ubuntu20.04
-busybox
+#busybox
 #nvidia/cuda:12.1.0-base-ubuntu22.04
 #ollama/ollama
 #quay.io/minio/minio
@@ -61,6 +61,7 @@ busybox
 #langgenius/dify-sandbox:0.2.9
 #--platform=linux/arm64 node:16
 #--platform=linux/arm64 registry.k8s.io/pause:3.7
+registry.k8s.io/pause:3.6
 #ohttps/ohttps-nginx
 #infiniflow/infinity:v0.5.2
 #mysql:8.0-debian

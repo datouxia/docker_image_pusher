@@ -61,7 +61,7 @@
 #langgenius/dify-sandbox:0.2.9
 #--platform=linux/arm64 node:16
 #--platform=linux/arm64 registry.k8s.io/pause:3.7
-registry.k8s.io/pause:3.6
+#registry.k8s.io/pause:3.6
 #ohttps/ohttps-nginx
 #infiniflow/infinity:v0.5.2
 #mysql:8.0-debian
@@ -91,7 +91,7 @@ registry.k8s.io/pause:3.6
 #ohttps/ohttps-nginx
 #lmsysorg/sglang:latest
 #xprobe/xinference:latest
-#vllm/vllm-openai:latest
+vllm/vllm-openai:latest
 #mysql:5.7.44
 #phpmyadmin
 #quay.io/prometheus/node-exporter:latest

@@ -9,7 +9,7 @@
 #nvidia/cuda:12.1.0-devel-ubuntu20.04
 #busybox
 #nvidia/cuda:12.1.0-base-ubuntu22.04
-#ollama/ollama
+ollama/ollama
 #quay.io/minio/minio
 #gotenberg/gotenberg:8
 #gitlab/gitlab-runner:v14.6.1
@@ -29,7 +29,6 @@
 #roura/tengine
 #grafana/k6
 #xprobe/xinference
-#ollama/ollama
 #langgenius/dify-api:0.6.12-fix1
 #langgenius/dify-web:0.6.12-fix1
 #langgenius/dify-sandbox:0.2.1
@@ -91,7 +90,7 @@
 #ohttps/ohttps-nginx
 #lmsysorg/sglang:latest
 #xprobe/xinference:latest
-vllm/vllm-openai:latest
+#vllm/vllm-openai:latest
 #mysql:5.7.44
 #phpmyadmin
 #quay.io/prometheus/node-exporter:latest

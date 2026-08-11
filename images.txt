@@ -109,4 +109,4 @@
 #nginx:alpine
 #--platform=linux/arm64 rustfs/rustfs
 #ghcr.io/openclaw/openclaw:latest
-ubuntu20.04
+ubuntu/ubuntu20.04

@@ -9,7 +9,7 @@
 #nvidia/cuda:12.1.0-devel-ubuntu20.04
 #busybox
 #nvidia/cuda:12.1.0-base-ubuntu22.04
-ollama/ollama
+#ollama/ollama
 #quay.io/minio/minio
 #gotenberg/gotenberg:8
 #gitlab/gitlab-runner:v14.6.1
@@ -109,3 +109,4 @@ ollama/ollama
 #nginx:alpine
 #--platform=linux/arm64 rustfs/rustfs
 #ghcr.io/openclaw/openclaw:latest
+ubuntu20.04
